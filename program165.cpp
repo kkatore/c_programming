@@ -13,7 +13,7 @@ class SinglyCL
 	private:
 	PNODE first ;
 	PNODE last;
-	int size ;
+	int size ;  
 	
 	public:
 		SinglyCL()
